@@ -29,10 +29,8 @@ The project uses four CSV files:
 
 ## Tools Used
 
-- **SQL (PostgreSQL)** – For data cleaning, joins, aggregations, and business logic
-- **Excel/Google Sheets** – For quick review or summary (optional)
-- **Power BI / Tableau** – For creating dashboards (optional)
-- **Markdown / GitHub** – For documentation and version control
+- **SQL (PostgreSQL)** – For data cleaning, joins, aggregations, and business logic.
+
 
 ## Key Insights
 
