@@ -71,7 +71,7 @@ These cities show the most promising combination of demand, affordability, and p
 
 ## Author
 
-**Your Name**  
-*Data Analyst | SQL | Business Intelligence*  
-Email: your.email@example.com  
-LinkedIn: [Your LinkedIn Profile]
+**Divyanshi Doser**  
+*Aspiring Data Analyst | SQL | Business Intelligence*  
+Email: divyanshidoser@gmail.com  
+LinkedIn: [https://www.linkedin.com/in/divyanshi-doser]
